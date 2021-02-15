@@ -1,0 +1,72 @@
+&ltHEADER>
+&ltTITLE>The World Wide Web project&lt/TITLE>
+&ltNEXTID N="55">
+&lt/HEADER>
+&ltBODY>
+&ltH1>World Wide Web&lt/H1>The WorldWideWeb (W3) is a wide-area&ltA
+NAME=0 HREF="WhatIs.html">
+hypermedia&lt/A> information retrieval
+initiative aiming to give universal
+access to a large universe of documents.&ltP>
+Everything there is online about
+W3 is linked directly or indirectly
+to this document, including an &ltA
+NAME=24 HREF="Summary.html">executive
+summary&lt/A> of the project, &ltA
+NAME=29 HREF="Administration/Mailing/Overview.html">Mailing lists&lt/A>
+, &ltA
+NAME=30 HREF="Policy.html">Policy&lt/A> , November's &ltA
+NAME=34 HREF="News/9211.html">W3 news&lt/A> ,
+&ltA
+NAME=41 HREF="FAQ/List.html">Frequently Asked Questions&lt/A> .
+&ltDL>
+&ltDT>&ltA
+NAME=44 HREF="../DataSources/Top.html">What's out there?&lt/A>
+&ltDD> Pointers to the
+world's online information,&ltA
+NAME=45 HREF="../DataSources/bySubject/Overview.html"> subjects&lt/A>
+, &ltA
+NAME=z54 HREF="../DataSources/WWW/Servers.html">W3 servers&lt/A>, etc.
+&ltDT>&ltA
+NAME=46 HREF="Help.html">Help&lt/A>
+&ltDD> on the browser you are using
+&ltDT>&ltA
+NAME=13 HREF="Status.html">Software Products&lt/A>
+&ltDD> A list of W3 project
+components and their current state.
+(e.g. &ltA
+NAME=27 HREF="LineMode/Browser.html">Line Mode&lt/A> ,X11 &ltA
+NAME=35 HREF="Status.html#35">Viola&lt/A> , &ltA
+NAME=26 HREF="NeXT/WorldWideWeb.html">NeXTStep&lt/A>
+, &ltA
+NAME=25 HREF="Daemon/Overview.html">Servers&lt/A> , &ltA
+NAME=51 HREF="Tools/Overview.html">Tools&lt/A> ,&ltA
+NAME=53 HREF="MailRobot/Overview.html"> Mail robot&lt/A> ,&ltA
+NAME=52 HREF="Status.html#57">
+Library&lt/A> )&ltDT>&ltA
+NAME=47 HREF="Technical.html">Technical&lt/A>
+&ltDD> Details of protocols, formats,
+program internals etc
+&ltDT>&ltA
+NAME=40 HREF="Bibliography.html">Bibliography&lt/A>
+&ltDD> Paper documentation
+on W3 and references.
+&ltDT>&ltA
+NAME=14 HREF="People.html">People&lt/A>
+&ltDD> A list of some people involved
+in the project.
+&ltDT>&ltA
+NAME=15 HREF="History.html">History&lt/A>
+&ltDD> A summary of the history
+of the project.
+&ltDT>&ltA
+NAME=37 HREF="Helping.html">How can I help&lt/A> ?
+&ltDD> If you would like
+to support the web..
+&ltDT>&ltA
+NAME=48 HREF="../README.html">Getting code&lt/A>
+&ltDD> Getting the code by&ltA
+NAME=49 HREF="LineMode/Defaults/Distribution.html">
+anonymous FTP&lt/A> , etc.&lt/A>
+&lt/DL>
+&lt/BODY>
